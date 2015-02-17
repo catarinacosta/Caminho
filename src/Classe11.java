@@ -10,4 +10,8 @@
  */
 public class Classe11 {
 	
+	public void metodoCommit12(){
+		
+	}
+	
 }

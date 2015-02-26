@@ -9,5 +9,7 @@
  * @author j2cf
  */
 public class VinteSete {
-	
+	public void metodoCommit27(){
+		
+	}
 }

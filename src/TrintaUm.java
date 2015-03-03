@@ -10,4 +10,8 @@
  */
 public class TrintaUm {
 	
+	public void trintaUmMetodo(){
+		System.out.println("sera que funciona né");
+	}
+	
 }

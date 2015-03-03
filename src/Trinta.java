@@ -10,4 +10,8 @@
  */
 public class Trinta {
 	
+	public void novoMetodo(){
+		//enviado pelo jair
+	}
+	
 }

@@ -9,5 +9,8 @@
  * @author j2cf
  */
 public class VinteSeis {
-	
+	public void metodoCommit26(){
+            System.out.println("oi");
+                    
+	}
 }

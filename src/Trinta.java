@@ -12,6 +12,7 @@ public class Trinta {
 	
 	public void novoMetodo(){
 		//enviado pelo jair
+		System.out.println("oi");
 	}
 	
 }

@@ -11,7 +11,7 @@
 public class TrintaDois {
 	
 	public void metodoLegalZaoQueNaoFazNada(){
-		System.out.println("Do nothing");
+		System.out.println("Do nothing and nada mais que isso");
 	}
 	
 }

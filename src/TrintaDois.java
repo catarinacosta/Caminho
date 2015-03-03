@@ -10,4 +10,8 @@
  */
 public class TrintaDois {
 	
+	public void metodoLegalZaoQueNaoFazNada(){
+		System.out.println("Do nothing");
+	}
+	
 }

@@ -15,4 +15,8 @@ public class Trinta {
 		System.out.println("oi");
 	}
 	
+	public void fazNadaNovo(){
+		
+	}
+	
 }

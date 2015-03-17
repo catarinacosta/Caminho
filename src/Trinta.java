@@ -16,7 +16,7 @@ public class Trinta {
 	}
 	
 	public void fazNadaNovo(){
-		
+		System.out.println("oLÁ");
 	}
 	
 }

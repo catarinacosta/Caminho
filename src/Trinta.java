@@ -19,4 +19,9 @@ public class Trinta {
 		System.out.println("oLÁ");
 	}
 	
+	public void fazTudoMenosNada(){
+		
+	}
+	
 }
+	

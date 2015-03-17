@@ -10,4 +10,7 @@
  */
 public class SextaClasse {
     
+	public void Imprimir(){
+	System.out.println("oi");
+	}
 }

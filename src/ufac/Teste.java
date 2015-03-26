@@ -26,4 +26,8 @@ public class Teste {
         void qualquercoisa(){
             /////
         }
+	public void outroConflito(){
+		//sera que vai dar erro?
+	}
+	
 }

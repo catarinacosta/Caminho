@@ -7,4 +7,7 @@ public class Jhunior {
     }
     public int metodo3(){
     return 1;}
+    public String metodo4(){
+    return "JAVA";
+    }
 }

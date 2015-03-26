@@ -13,4 +13,8 @@ public class Teste {
 	public void teste(){
              System.out.println("Metodo");
         }
+        
+        public void teste2(){
+            System.out.println("TESTE2");
+        }
 }

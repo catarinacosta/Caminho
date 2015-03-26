@@ -18,4 +18,10 @@ public class Teste {
 	public void criadoPorJair(){
 		System.out.println("Não faz nada...");
 	}
+             System.out.println("Metodo");
+        }
+        
+        public void teste2(){
+            System.out.println("TESTE2");
+        }
 }

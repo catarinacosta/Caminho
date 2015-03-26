@@ -23,4 +23,7 @@ public class Teste {
 		System.out.println("TESTE2");
 	}
 	
+        void qualquercoisa(){
+            /////
+        }
 }

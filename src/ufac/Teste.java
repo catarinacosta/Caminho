@@ -10,5 +10,7 @@ package ufac;
  * @author j2cf
  */
 public class Teste {
-	
+	public void teste(){
+             System.out.println("Metodo");
+        }
 }

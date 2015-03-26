@@ -10,7 +10,12 @@ package ufac;
  * @author j2cf
  */
 public class Teste {
+	
 	public void teste(){
-             System.out.println("Metodo");
-        }
+		System.out.println("Metodo");
+	}
+	
+	public void criadoPorJair(){
+		System.out.println("Não faz nada...");
+	}
 }

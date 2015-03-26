@@ -23,4 +23,8 @@ public class Teste {
 		System.out.println("TESTE2");
 	}
 	
+	public void outroConflito(){
+		//sera que vai dar erro?
+	}
+	
 }

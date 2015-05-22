@@ -17,7 +17,7 @@ public class TestImpl {
 	}
 	
 	public void metodoTestImpl2(){
-		
+		System.out.println ("teste junto");
 		
 	}
 }

@@ -8,9 +8,8 @@
  *
  * @author Catarina
  */
-public class OndeEstou {
-	
-	public void ondeEstou(){
+public class DoisLados {
+	public void metDoisLados(){
+		
 	}
-
 }

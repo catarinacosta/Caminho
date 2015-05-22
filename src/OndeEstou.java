@@ -9,5 +9,8 @@
  * @author Catarina
  */
 public class OndeEstou {
+	public void metOi(){
+		System.out.println("oi");
+	}
 	
 }

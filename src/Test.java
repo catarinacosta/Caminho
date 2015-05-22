@@ -10,12 +10,16 @@
  */
 public class Test {
 	
-	public void Test(){
-		System.out.println ("teste junto");
+	public void metodoTest1(){
+		System.out.println ("teste");
 	}
 	
-	public void Test2(){
-		System.out.println ("teste junto");
+	public void metodoTest2(){
+		System.out.println ("teste");
+	}
+	
+	public void metodoTest3(){
+		System.out.println ("teste");
 	}
 	
 }

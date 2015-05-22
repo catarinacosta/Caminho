@@ -16,11 +16,11 @@ public class TestImpl {
 	}
 	
 	public void metodoTestImpl2(){
-		System.out.println ("teste junto");
+		System.out.println ("teste");
 		
 	}
 	
 	public void metodoTestImpl3(){
-		System.out.println ("teste junto");
+		System.out.println ("teste");
 	}
 }

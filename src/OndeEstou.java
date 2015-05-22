@@ -10,4 +10,7 @@
  */
 public class OndeEstou {
 	
+	public void ondeEstou(){
+		
+	}
 }

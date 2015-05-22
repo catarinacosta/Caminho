@@ -22,5 +22,6 @@ public class TestImpl {
 	
 	public void metodoTestImpl3(){
 		System.out.println ("teste");
+		System.out.println ("testando a implementaçao agora");
 	}
 }

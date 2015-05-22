@@ -20,6 +20,8 @@ public class Test {
 	
 	public void metodoTest3(){
 		System.out.println ("teste");
+		System.out.println ("Testando a Interface");
+		
 	}
 	
 }

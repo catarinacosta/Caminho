@@ -15,7 +15,7 @@ public class Test {
 	}
 	
 	public void Test2(){
-		
+		System.out.println ("teste junto");
 	}
 	
 }

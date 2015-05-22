@@ -21,6 +21,6 @@ public class TestImpl {
 	}
 	
 	public void metodoTestImpl3(){
-		
+		System.out.println ("teste junto");
 	}
 }

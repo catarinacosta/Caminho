@@ -11,6 +11,7 @@
 public class TestImpl {
 	
 	public void metodoTestImpl(){
+		System.out.println ("tempo impl");
 
 	}
 }

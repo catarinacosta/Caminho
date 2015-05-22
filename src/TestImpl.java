@@ -10,5 +10,7 @@
  */
 public class TestImpl {
 	
-	
+	public void metodoTestImpl(){
+
+	}
 }

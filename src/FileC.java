@@ -13,4 +13,8 @@ public class FileC {
 		System.out.println("oi, testando...");
 	}
 	
+	public void fileC2(){
+		
+	}
+	
 }

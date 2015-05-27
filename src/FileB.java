@@ -13,4 +13,8 @@ public class FileB {
 		System.out.println("olá, testando");
 		
 	}
+	
+	public void fileB2(){
+	
+	}
 }

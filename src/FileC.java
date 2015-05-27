@@ -12,13 +12,13 @@ public class FileC {
 	public void fileC(){
 		System.out.println("oi, testando...");
 	}
-	
 	public void fileC2(){
 		System.out.println("olá");
 	}
-	public void fileC3()
-		{
+	public void fileC3(){
 		System.out.println("olá, oi");
 	}
-	
+	public void fileC4(){
+		System.out.println("olá, oi");
+	}
 }

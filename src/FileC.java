@@ -9,5 +9,8 @@
  * @author Catarina
  */
 public class FileC {
+	public void fileC(){
+		
+	}
 	
 }

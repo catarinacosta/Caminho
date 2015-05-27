@@ -10,6 +10,7 @@
  */
 public class FileB {
 	public void fileB(){
+		System.err.println("oi");
 		
 	}
 }

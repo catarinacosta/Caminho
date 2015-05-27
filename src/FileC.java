@@ -16,9 +16,9 @@ public class FileC {
 		System.out.println("olá");
 	}
 	public void fileC3(){
-		System.out.println("olá, oi");
+		System.out.println("olá");
 	}
 	public void fileC4(){
-		System.out.println("olá, oi");
+		System.out.println("olá");
 	}
 }

@@ -18,4 +18,9 @@ public class FileB {
 		System.out.println("olá");
 	
 	}
+	
+	public void fileB3(){ //mudanca no ramo interface
+		System.out.println("olá");
+	
+	}
 }

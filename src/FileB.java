@@ -15,6 +15,7 @@ public class FileB {
 	}
 	
 	public void fileB2(){
+		System.out.println("");
 	
 	}
 }

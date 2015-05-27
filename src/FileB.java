@@ -10,7 +10,7 @@
  */
 public class FileB {
 	public void fileB(){
-		System.out.println("olá");
+		System.out.println("olá, testando");
 		
 	}
 }

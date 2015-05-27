@@ -9,5 +9,7 @@
  * @author Catarina
  */
 public class FileB {
-	
+	public void fileB(){
+		
+	}
 }

@@ -21,4 +21,8 @@ public class FileC {
 	public void fileC4(){
 		System.out.println("olá");
 	}
+	
+	public void whoIsJohnGalt(){
+		System.out.println("I dont know");
+	}
 }

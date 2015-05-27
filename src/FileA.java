@@ -13,4 +13,8 @@ public class FileA {
 		
 	}
 	
+	public void setDate(){
+		System.out.println("show the date or not");
+	}
+	
 }

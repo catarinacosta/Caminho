@@ -18,7 +18,7 @@ public class FileC {
 	}
 	public void fileC3()
 		{
-			System.out.println("olá");
+		System.out.println("olá, oi");
 	}
 	
 }

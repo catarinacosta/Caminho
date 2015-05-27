@@ -8,8 +8,6 @@
  *
  * @author Catarina
  */
-public class OndeEstou {
+public class FileA {
 	
-	
-
 }

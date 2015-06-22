@@ -11,15 +11,15 @@
 public class Coverage {
 	
 	public void a(){
-		
+		System.out.println("test - Catarina");
 	}
 	
 	public void b(){
-		
+		System.out.println("test - Catarina");
 	}
 	
 	public void c(){
-		
+		System.out.println("test - Catarina");
 	}
 	
 	public void d(){

@@ -12,6 +12,7 @@ public class Coverage {
 	
 	public void a(){
 		System.out.println("test - Catarina");
+                System.out.println("test - Jair");
 	}
 	
 	public void b(){
@@ -24,6 +25,7 @@ public class Coverage {
 	
 	public void d(){
 		System.out.println("coverage - changed by Jair");
+                System.out.println("test - Jair");
 	}
 	
 	public void e(){

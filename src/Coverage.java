@@ -11,11 +11,11 @@
 public class Coverage {
 	
 	public void a(){
-		System.out.println("outro test - Catarina");
+		System.out.println("outro test novo - Catarina");
 	}
 	
 	public void b(){
-		System.out.println("test - Catarina");
+		System.out.println("outro test - Catarina");
 	}
 	
 	public void c(){

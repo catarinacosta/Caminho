@@ -15,7 +15,7 @@ public class Coverage {
 	}
 	
 	public void b(){
-		System.out.println("test - Catarina");
+		System.out.println("novo test - Catarina");
 	}
 	
 	public void c(){
